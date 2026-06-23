@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiUrl: 'https://TU-APP.onrender.com/api'
+  apiUrl: 'https://quiz-snowflake.onrender.com'
 };
